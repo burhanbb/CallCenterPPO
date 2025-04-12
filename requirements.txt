@@ -1,0 +1,6 @@
+gym
+stable-baselines3
+numpy
+pandas
+openpyxl
+shimmy>=2.0
